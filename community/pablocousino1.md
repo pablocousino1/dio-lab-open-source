@@ -11,7 +11,7 @@
 
 ## Projetos Destacados
 
-- [Portfólio Pessoal](https://github.com/pablocousino1/portfolio) - Meu portfólio online para exibir meus projetos e habilidades.
+- [Portfólio Pessoal](https://github.com/pablocousino1?tab=projects) - Meu portfólio online para exibir meus projetos e habilidades.
 
 ## Contato
 - LinkedIn: [Pablo Cousino](https://www.linkedin.com/in/pablocousino1/)
